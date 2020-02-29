@@ -20,7 +20,7 @@ Nicole Becher is professional information security consultant. She has been in t
 
  Franziska is currently working as an architect for the Swiss company [Puzzle ITC](https://www.puzzle.ch/), where she combines her passion for IT-security, DevOps and open source software. She is highly experienced in reverse proxy platform and WAF (web application firewalls), from her extensive experience at the Swiss post and as a co-developer of the OWASP ModSecurity Core Rule Set. As part of the OWASP DevSlop team, Franziska integrated CRS into DevSlop's pixi-crs module, a Continuous Integration pipeline, to provide developers the chance to tune their WAF earlier in the SDLC.  She also blogs, speaks at conferences and provides technical training, at conferences throughout Europe. When she isn't disassembling highly optimized regexes or study technical books, she enjoys spending time with her family.
 
-![Franziska Bühler](assets/img/Franziska.jpg")
+![Franziska Bühler](../assets/img/Franziska.jpg")
 
 Twitter: [bufrasch](https://twitter.com/bufrasch)  
 Dev.TO Blog: [https://dev.to/DevSlop/](https://dev.to/DevSlop/)  
