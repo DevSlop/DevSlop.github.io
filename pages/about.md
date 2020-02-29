@@ -1,4 +1,4 @@
-## OWASP DevSlop Project
+## About DevSlop
 
 Learning by teaching and doing.
     
