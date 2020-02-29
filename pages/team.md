@@ -1,6 +1,6 @@
 ## DevSlop Team
 
-### Project Leaders
+## Project Leaders
 
 ### Nancy Gariché
 
@@ -17,7 +17,7 @@ Nicole Becher is professional information security consultant. She has been in t
 
 ![Nicole Becher]({{ site.url }}/assets/img/Nicole.jpg)
 
-### Project Members
+## Project Members
 
 ### Franziska Bühler
 
@@ -31,7 +31,7 @@ Medium Blog: [https://medium.com/@franbuehler](https://medium.com/@franbuehler)
 GitHub: [https://github.com/franbuehler](https://github.com/franbuehler)
 Slides: [https://www.slideshare.net/franbuehler](https://www.slideshare.net/franbuehler)
 
-### Project Founder
+## Project Founder
 
 ### Tanya Janca
 
@@ -46,13 +46,13 @@ GitHub: [https://github.com/shehackspurple](https://github.com/shehackspurple)
 Slides: [https://www.slideshare.net/TanyaJanca](https://www.slideshare.net/TanyaJanca)  
 
 
-### Project Contributors
+## Project Contributors
 
 Abel Wang: [https://abelsquidhead.com](https://abelsquidhead.com), Twitter: [AbelSquidHead](https://twitter.com/AbelSquidHead)  
 [Manuel Lopez Arredondo](https://www.linkedin.com/in/manuel-lopez-arredondo-cisa-cism-cissp-ceh-pmp-owasp-sox-25167125)  
 Mordecai Kraushar: [mordecai.kraushar@owasp.org](mailto:mordecai.kraushar@owasp.org), Twitter: [Mordecai](https://twitter.com/demomk)
 
-### Translators
+## Translators
 [Marco Tietz](https://twitter.com/marcotietz)  
 [Patxi Gortázar](https://twitter.com/fgortazar)
 
