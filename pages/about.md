@@ -1,4 +1,4 @@
-## OWASP DevSlop Tool Project
+## OWASP DevSlop Project
 
 Learning by teaching and doing.
     
@@ -10,9 +10,9 @@ The DevSlop Project (Sloppy DevOps) is a project created by 4 friends who wanted
 
 All of these questions and more are what we attempt to answer via
 
-<a href="https://devslop.co/Home/Schedule">public talks and workshops</a>,
-<a href="https://aka.ms/DevSlopShow">our videos</a>, as well as our <a href="https://devslop.co/Home/Schedule">
-        pipelines and apps</a>.
+* [Public Talks and Workshops](pages/schedule.md)
+* [YouTube DevSlop Shows](https://aka.ms/DevSlopShow)
+* [Pipelines and Apps](https://github.com/devslop)
 
 Thanks for visiting our website!
 
