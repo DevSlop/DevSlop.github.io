@@ -1,6 +1,6 @@
 ## Patty The Pipeline 
 
-The old website was the Patty Module proof of concept! Built with an Azure + ASP.Net Core DevSecOps pipeline, it released the old website/web app through the pipeline to demonstrate implemented security automation. Most of the learning of this module was done on the [YouTube Video Series](https://www.youtube.com/channel/UCyxbNw11fMUgoR3XpVYVPIQ), where [Tanya](https://aka.ms/SheHacksPurpleBlog), Nancy and friends explore various technical solutions in attempts to automate AppSec as much as possible.
+The old website was the Patty Module proof of concept! Built with an Azure + ASP.Net Core DevSecOps pipeline, it released the old website/web app through the pipeline to demonstrate implemented security automation. Most of the learning of this module was done on the [YouTube Video Series](https://www.youtube.com/channel/UCyxbNw11fMUgoR3XpVYVPIQ), where [Tanya](https://aka.ms/SheHacksPurpleBlog), [Nancy](team.md) and friends explore various technical solutions in attempts to automate AppSec as much as possible.
 
 This module was lead by [Tanya Janca](https://aka.ms/SheHacksPurpleBlog).
 
