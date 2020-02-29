@@ -25,11 +25,11 @@ Nicole Becher is professional information security consultant. She has been in t
 
 ![Franziska Bühler]({{ site.url }}/assets/img/Franziska.jpg)
 
-Twitter: [bufrasch](https://twitter.com/bufrasch)
-Dev.TO Blog: [https://dev.to/DevSlop/](https://dev.to/DevSlop/)
-Medium Blog: [https://medium.com/@franbuehler](https://medium.com/@franbuehler)
-GitHub: [https://github.com/franbuehler](https://github.com/franbuehler)
-Slides: [https://www.slideshare.net/franbuehler](https://www.slideshare.net/franbuehler)
+Twitter: [bufrasch](https://twitter.com/bufrasch)  
+Dev.TO Blog: [https://dev.to/DevSlop/](https://dev.to/DevSlop/)  
+Medium Blog: [https://medium.com/@franbuehler](https://medium.com/@franbuehler)  
+GitHub: [https://github.com/franbuehler](https://github.com/franbuehler)  
+Slides: [https://www.slideshare.net/franbuehler](https://www.slideshare.net/franbuehler)  
 
 ## Project Founder
 
