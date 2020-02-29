@@ -8,19 +8,15 @@ We add a WAF as an additional layer of defense against common web application at
     
 By adding and testing the WAF in the Continuous Integration (CI) stage, we provide the application developer early feedback about how their application will react when behind a WAF. We assure that Pixi's legitimate traffic is not blocked by the WAF, and that illegitimate traffic is.
    
-We use the WAF ModSecurity with the OWASP ModSecurity Core Rule Set as the WAF and signature set in this proof of concept pipeline. 
+We use the WAF ModSecurity with the [OWASP ModSecurity Core Rule Set](https://coreruleset.org) as the WAF and signature set in this proof of concept pipeline. 
 
 To start the Core Rule Set in front of Pixi we use [OWASP's modsecurity-crs Docker Image](https://hub.docker.com/r/owasp/modsecurity-crs/)
      
-The application tests are written in Testcafe.  They are executed once against Pixi directly and then again through the Core Rule Set.  
+The application tests are written in Testcafe. They are executed once against Pixi directly and then again through the Core Rule Set.  
 The Continuous Integration is implemented in CircleCI.  
-The DevSlop Pixi-CRS pipeline currently has two branches.
-1) The master branch tests Pixi with legitimate Testcafe tests.
-2) The branch test-pixi-vulnerabilities intentionally tests the vulnerabilities of Pixi.
-
 As a result, we see which CRS rules were hit by the tests.
 
-This module is lead by Franziska Bühler.
+This module is lead by [Franziska Bühler](team.md).
 
 Code to be found [here](https://github.com/DevSlop/pixi-crs)  
 Video explanation [here](https://vimeo.com/271451246)  
