@@ -21,6 +21,17 @@ DevSlop's Pixi, the first application for this OWASP project, is currently publi
 
 Code to be found [here](https://github.com/DevSlop/Pixi).
 
+### Blog
+
+OWASP DevSlop has a [blog on dev.to](https://dev.to/DevSlop/)!
+
+### Shows
+
+This module is lead by [Nancy Gariché](team.md).
+
+We stream from time to time on [Mixer](https://aka.ms/DevSlop-Mixer) and [Twitch](https://aka.ms/DevSlopTwitch), and you can find out when by joining our [meetup](https://www.meetup.com/OWASP-DevSlop-Project).  
+You can catch the shows you've missed on [YouTube](https://aka.ms/DevSlopShow).
+
 
 ### Patty (no more maintained)
 
@@ -33,3 +44,5 @@ Details to follow on [Patty](patty.md).
 The Patty video series: [YouTube DevSlop](https://www.youtube.com/channel/UCSmjcWvgVBqF3x_7e5rfe3A) and [YouTube SheHacksPurple](https://www.youtube.com/channel/UCyxbNw11fMUgoR3XpVYVPIQ).
 
 Code for the old website, Devslop.co, is [here](https://github.com/DevSlop/DevSlop.co)
+
+
