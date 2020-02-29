@@ -12,4 +12,4 @@ You can catch the shows you've missed on [YouTube](https://aka.ms/DevSlopShow).
 
 ### Learn With Us
 
-Find out more about what DevSlop can teach you. Check out our [teaching schedule](pages/schedule.md).
+Find out more about what [DevSlop](pages/team.md) can teach you. Check out our [teaching schedule](pages/schedule.md).
