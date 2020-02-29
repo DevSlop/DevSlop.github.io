@@ -28,6 +28,8 @@ This module was lead by Tanya Janca.
 
 This old DevSlop website was the Patty Module proof of concept built with an Azure + ASP.Net Core DevSecOps pipeline. It released the website/web app through the pipeline to demonstrate implemented security automation.
 
+Details to follow on [Patty](pages/patty.md).
+
 The Patty video series: [YouTube](https://www.youtube.com/channel/UCyxbNw11fMUgoR3XpVYVPIQ)
 
 Code for the old website, Devslop.co, is [here](https://github.com/DevSlop/DevSlop.co)
