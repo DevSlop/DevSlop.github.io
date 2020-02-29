@@ -15,7 +15,7 @@ Code to be found [here](https://github.com/DevSlop/pixi-crs).
 
 This module is lead by [Nicole Becher](team,md) with help from [Mordecai Kraushar](team.md) and [Tanya Janca](team.md).
 
-![Pixi Logo](/assets/imp/Pixi_logo.png)
+![Pixi Logo](https://github.com/DevSlop/DevSlop.github.io/blob/master/assets/img/Pixi_logo.png)
 
 DevSlop's Pixi, the first application for this OWASP project, is currently publicly available for your hacking and learning pleasure. Pixi is available in several docker containers and consists of a vulnerable web app and API service.  The intent is to teach users how to test modern web applications and API's for security issues and how to write more secure API's in the future. 
 
