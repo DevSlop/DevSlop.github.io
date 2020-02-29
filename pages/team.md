@@ -4,7 +4,7 @@
 
 In the early 2000's, Nancy joined the Canadian federal government as a computer science CO-OP student and never left. In 2009, she moved to Ottawa from Montreal, her beloved hometown, to land her first IT security job as a security analyst. This multi-hatted role gave her the opportunity to take on duties in multiple disciplines ranging from incident handling, to project and risk management. Involved in her local infosec community, she aspires to welcome and empower a new generation of industry professionals into the workforce. She is currently leading her federal Department’s Security Assessment and Authorization Program and she is the co-founder of [Secure That Cert]("http://www.securethatcert.com/) a community that helps cybersecurity professionals and enthusiasts obtain the skills and certifications required to kickstart or level up their career.
 
-[[https://github.com/DevSlop/DevSlop.github.io/blob/master/assets/img/Nancy.jpg|alt=Nancy]]
+![Nancy Gariché]({{ site.url }}/assets/img/Nancy.jpg)
 
 Twitter: [NanzgTweets](https://twitter.com/nanzgtweets)  
 Website: [Secure That Cert!](http://www.securethatcert.com/)
