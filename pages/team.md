@@ -1,5 +1,7 @@
 ## DevSlop Team
 
+### Project Leaders
+
 ### Nancy Gariché
 
 In the early 2000's, Nancy joined the Canadian federal government as a computer science CO-OP student and never left. In 2009, she moved to Ottawa from Montreal, her beloved hometown, to land her first IT security job as a security analyst. This multi-hatted role gave her the opportunity to take on duties in multiple disciplines ranging from incident handling, to project and risk management. Involved in her local infosec community, she aspires to welcome and empower a new generation of industry professionals into the workforce. She is currently leading her federal Department’s Security Assessment and Authorization Program and she is the co-founder of [Secure That Cert]("http://www.securethatcert.com/) a community that helps cybersecurity professionals and enthusiasts obtain the skills and certifications required to kickstart or level up their career.
@@ -8,6 +10,14 @@ In the early 2000's, Nancy joined the Canadian federal government as a computer 
 
 Twitter: [NanzgTweets](https://twitter.com/nanzgtweets)  
 Website: [Secure That Cert!](http://www.securethatcert.com/)
+
+### Nicole Becher
+
+Nicole Becher is professional information security consultant. She has been in the cybersecurity space for over ten years working mainly in offensive security capacities. She manages penetration testing and red teams, forensics and incident responders, and malware reverse engineering teams. She has also worked on the cyber policy side for a U.S. Regulator, New York State Department of Financial Services, where she helped develop the first-in-nation regulatory framework for assessing the cybersecurity of large and complex financial institutions.  She also helped draft the first-in-nation  regulatory and licensing framework for Bitcoin and virtual currencies. Nicole is also as an Adjunct Instructor at New York University, where she teaches courses on offensive and defensive computer security, network security, web application security, and computer forensics. She is a chapter leader for OWASP Brooklyn (Open Web Application Security Project) and has presented both talks and trainings, at various conferences around the world on topics related to her research interests. These include web application security, malware analysis, economics of cybersecurity, cybercrime, and international cyberlaws and regulation.  She has also advised Hollywood scriptwriters on cybersecurity and hacking. She is a Cybersecurity fellow of New America, a Washington DC-based think-tank, and is a fellow of the Madison Policy Forum, a cybersecurity-focused policy group bridging military, government and industry. She is a Certified Information Systems Security Professional (CISSP).  Nicole is part of the Conservation SMART Technology Security Council is very active in the Animal Rescue and conservation technology movements.
+
+![Nicole Becher]({{ site.url }}/assets/img/Nicole.jpg)
+
+### Project Members
 
 ### Franziska Bühler
 
@@ -21,15 +31,11 @@ Medium Blog: [https://medium.com/@franbuehler](https://medium.com/@franbuehler)
 GitHub: [https://github.com/franbuehler](https://github.com/franbuehler)
 Slides: [https://www.slideshare.net/franbuehler](https://www.slideshare.net/franbuehler)
 
-
-### Nicole Becher
-
-Nicole Becher is professional information security consultant. She has been in the cybersecurity space for over ten years working mainly in offensive security capacities. She manages penetration testing and red teams, forensics and incident responders, and malware reverse engineering teams. She has also worked on the cyber policy side for a U.S. Regulator, New York State Department of Financial Services, where she helped develop the first-in-nation regulatory framework for assessing the cybersecurity of large and complex financial institutions.  She also helped draft the first-in-nation  regulatory and licensing framework for Bitcoin and virtual currencies. Nicole is also as an Adjunct Instructor at New York University, where she teaches courses on offensive and defensive computer security, network security, web application security, and computer forensics. She is a chapter leader for OWASP Brooklyn (Open Web Application Security Project) and has presented both talks and trainings, at various conferences around the world on topics related to her research interests. These include web application security, malware analysis, economics of cybersecurity, cybercrime, and international cyberlaws and regulation.  She has also advised Hollywood scriptwriters on cybersecurity and hacking. She is a Cybersecurity fellow of New America, a Washington DC-based think-tank, and is a fellow of the Madison Policy Forum, a cybersecurity-focused policy group bridging military, government and industry. She is a Certified Information Systems Security Professional (CISSP).  Nicole is part of the Conservation SMART Technology Security Council is very active in the Animal Rescue and conservation technology movements.
-
-![Nicole Becher]({{ site.url }}/assets/img/Nicole.jpg)
-
+### Project Founder
 
 ### Tanya Janca
+
+Tanya Janca, also known as “SheHacksPurple,” is an Independent Security Consultant specializing in software and cloud security. Her obsession with securing software runs deep, from starting her company to running her own OWASP chapter for four years and founding the OWASP DevSlop open-source and education project. With her countless blog articles, workshops and talks, her focus is clear. Janca is also an advocate for diversity and inclusion, co-founding the international women’s organization WoSEC, starting the online #MentoringMonday initiative, and personally mentoring, advocating for and enabling countless other women in her field. As a professional computer geek of 20+ years, she is a person who is truly fascinated by the “science” of computer science. 
 
 ![Tanya Janca]({{ site.url }}/assets/img/Tanya.jpg)
 
