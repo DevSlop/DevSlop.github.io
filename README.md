@@ -14,4 +14,4 @@ This module is lead by [Nancy Gariché](pages/team.md).
 
 ### Learn With Us
 
-Find out more about what [DevSlop](pages/team.md) can teach you. Check out our [teaching schedule](pages/schedule.md).
+Find out more about what [DevSlop](pages/contact.md) can teach you. Check out our [teaching schedule](pages/schedule.md).
