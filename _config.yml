@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-name: Sloppy DevOps!
-description: OWASP DevSlop
+title: OWASP DevSlop
+description: Sloppy DevOps!
+logo: /assets/img/logo.jpg
 
