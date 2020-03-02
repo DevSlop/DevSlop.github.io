@@ -2,6 +2,19 @@
 
 DevSlop has different modules that make up the project.  You can use one, some, or all of them.  They are all maintained to function independantly of each other.
 
+### Blog
+
+OWASP DevSlop has a [blog on dev.to](https://dev.to/DevSlop/)!
+
+
+### Shows
+
+This module is lead by [Nancy Gariché](team.md#nancy-gariché).
+
+We stream from time to time on [Mixer](https://aka.ms/DevSlop-Mixer) and [Twitch](https://aka.ms/DevSlopTwitch), and you can find out when by joining our [meetup](https://www.meetup.com/OWASP-DevSlop-Project).
+You can catch the shows you've missed on [YouTube](https://aka.ms/DevSlopShow).
+
+
 ### Pixi-CRS
 
 This module is lead by [Franziska Bühler](team.md#franziska-bühler).
@@ -20,17 +33,6 @@ This module is lead by [Nicole Becher](team.md#nicole-becher) with help from [Mo
 DevSlop's Pixi, the first application for this OWASP project, is currently publicly available for your hacking and learning pleasure. Pixi is available in several docker containers and consists of a vulnerable web app and API service.  The intent is to teach users how to test modern web applications and API's for security issues and how to write more secure API's in the future. 
 
 Code to be found [here](https://github.com/DevSlop/Pixi).
-
-### Blog
-
-OWASP DevSlop has a [blog on dev.to](https://dev.to/DevSlop/)!
-
-### Shows
-
-This module is lead by [Nancy Gariché](team.md#nancy-gariché).
-
-We stream from time to time on [Mixer](https://aka.ms/DevSlop-Mixer) and [Twitch](https://aka.ms/DevSlopTwitch), and you can find out when by joining our [meetup](https://www.meetup.com/OWASP-DevSlop-Project).  
-You can catch the shows you've missed on [YouTube](https://aka.ms/DevSlopShow).
 
 
 ### Patty (no more maintained)
