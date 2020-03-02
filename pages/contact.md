@@ -1,5 +1,7 @@
 ## Contact OWASP DevSlop
 
+[owasp.devslop@gmail.com](mailto:owasp.devslop@gmail.com)
+
 ### The Web
 
 * Twitter: [OWASP_DevSlop](https://twitter.com/Owasp_DevSlop)
