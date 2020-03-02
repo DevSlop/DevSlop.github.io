@@ -16,7 +16,7 @@ The application tests are written in Testcafe. They are executed once against Pi
 The Continuous Integration is implemented in CircleCI.  
 As a result, we see which CRS rules were hit by the tests.
 
-This module is lead by [Franziska Bühler](team.md).
+This module is lead by [Franziska Bühler](team.md#franziska-bühler).
 
 Code to be found [here](https://github.com/DevSlop/pixi-crs)  
 Video explanation [here](https://vimeo.com/271451246)  

@@ -13,7 +13,7 @@ Code to be found [here](https://github.com/DevSlop/pixi-crs).
 
 ### Pixi 
 
-This module is lead by [Nicole Becher](team.md#nicole-becher) with help from [Mordecai Kraushar](team.md) and [Tanya Janca](team.md#tanya-janca).
+This module is lead by [Nicole Becher](team.md#nicole-becher) with help from [Mordecai Kraushar](team.md#project-contributors) and [Tanya Janca](team.md#tanya-janca).
 
 ![Pixi Logo]({{ site.url }}/assets/img/Pixi_logo.png)
 
