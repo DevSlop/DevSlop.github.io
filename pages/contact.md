@@ -1,6 +1,6 @@
 ## Contact OWASP DevSlop
 
-[owasp.devslop@gmail.com](mailto:owasp.devslop@gmail.com)
+* [owasp.devslop@gmail.com](mailto:owasp.devslop@gmail.com)
 
 ### The Web
 
@@ -14,4 +14,4 @@
 
 ### The Team
 
-[The OWASP DevSlop Team](team.md)
+* [The OWASP DevSlop Team](team.md)
