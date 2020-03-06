@@ -2,6 +2,10 @@
 
 [owasp.devslop@gmail.com](mailto:owasp.devslop@gmail.com)
 
+### The Team
+
+[The OWASP DevSlop Team](team.md)
+
 ### The Web
 
 * Twitter: [OWASP_DevSlop](https://twitter.com/Owasp_DevSlop)

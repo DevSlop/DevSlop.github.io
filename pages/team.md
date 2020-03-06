@@ -10,6 +10,7 @@ In the early 2000's, Nancy joined the Canadian federal government as a computer 
 
 Twitter: [NanzgTweets](https://twitter.com/nanzgtweets)  
 Website: [Secure That Cert!](http://www.securethatcert.com/)
+Dev.TO Blog: [https://dev.to/DevSlop/](https://dev.to/DevSlop/)  
 
 ### Nicole Becher
 
