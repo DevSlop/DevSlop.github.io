@@ -10,6 +10,8 @@ We have many different parts to our project, called [Modules](pages/modules.md),
 We stream from time to time on [Mixer](https://aka.ms/DevSlop-Mixer) and [Twitch](https://aka.ms/DevSlopTwitch), and you can find out when by joining our [meetup](https://www.meetup.com/OWASP-DevSlop-Project).  
 You can catch the shows you've missed on [YouTube](https://aka.ms/DevSlopShow).
 
+You can find the OWASP DevSlop Show schedule [here](pages/shows-schedule.md).
+
 This module is lead by [Nancy Gariché](pages/team.md#nancy-gariché).
 
 ### Contact Us - Learn With Us

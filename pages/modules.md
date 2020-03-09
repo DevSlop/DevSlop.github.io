@@ -14,6 +14,7 @@ This module is lead by [Nancy Gariché](team.md#nancy-gariché).
 We stream from time to time on [Mixer](https://aka.ms/DevSlop-Mixer) and [Twitch](https://aka.ms/DevSlopTwitch), and you can find out when by joining our [meetup](https://www.meetup.com/OWASP-DevSlop-Project).
 You can catch the shows you've missed on [YouTube](https://aka.ms/DevSlopShow).
 
+You find the OWASP DevSlop Show schedule [here](pages/shows-schedule.md).
 
 ### Pixi-CRS
 
