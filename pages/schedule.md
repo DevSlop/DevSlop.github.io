@@ -1,3 +1,15 @@
+## OWASP DevSlop Shows
+
+### Current Events
+
+| What                               | When          | Where            | Who      | Description    |
+| | | | | |
+
+### Past Events
+
+| What                               | When          | Where            | Who      | Description    |
+| | | | | |
+
 ## OWASP DevSlop Speaking and Teaching Schedule
 
 ### Current Events
@@ -22,3 +34,4 @@
 | Web Application Firewall in DevOps | March 20th 2019 | DevOps Fusion, Zurich, Switzerland | [Franziska Bühler](team.md#franziska-bühler) | [Talk Abstract in German](https://test.devops-fusion.com/en/speaker/franziska-buehler/) |
 | Web Application Firewall - Friend of your DevOps Chains | May 2nd 2018 | DevOpsDays Zurich, Switzerland | [Franziska Bühler](team.md#franziska-bühler) | [Link to Conference/Slides/Video](https://devopsdays.org/events/2018-zurich/speakers/franziska-buehler/) |
 | | | | | |
+
