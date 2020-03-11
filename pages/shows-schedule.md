@@ -30,19 +30,17 @@
 | PenTesting Azure | Feb 3rd 2019 | Teri Radichel | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyzdbfb/), [YouTube](https://www.youtube.com/watch?v=AX2CScWC4UA) |
 | OWASP DevSlop Weekly Live Stream | Jan 28th | [Tanya Janca](team.md#tanya-janca) | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyzcbkc/) |
 | OWASP Vancouver Meetup | Jan 24th 2019| [Tanya Janca](team.md#tanya-janca) and Siva Ram | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/258349961/) |
-| OWASP DevSlop Weekly Live Stream with Gift | Jan 20th 2019 | [Tanya Janca](team.md#tanya-janca) | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyzcbbc/) |
 | OWASP DevSlop: SQL Injection Deep Dive | Jan 13th 2019 | [Nicole Becher](team.md#nicole-becher) and [Nancy Gariché](team.md#nancy-gariché) | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyzcbrb/), [YouTube](https://www.youtube.com/watch?v=VJBV0kAau1w) |
 | Verifying OWASP ZAP Scanner Results | Jan 6th 2019 | Kevwe Ochuko | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyzcbjb/), [YouTube](https://www.youtube.com/watch?v=hSk8RH976gw) |
-| OWASP DevSlop Weekly Live Stream with surprise guest | Dec 30th 2018 | ? | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyxqbnc/) |
 | CSRFGuard | Dec 23rd 2018 | Azzeddine Ramrami | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyxqbfc/) |
 | ASVS | Dec 16th 2019 | Jim, Andrew and Dan | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyxqbvb/), [YouTube](https://www.youtube.com/watch?v=DS47KUzJkvc) |
 | OWASP Proactive Controls | Dec 9th 2018 | Katy Anton | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyxqbmb/), [YouTube](https://www.youtube.com/watch?v=Jdb3qweDc_Q) |
 | Le Projet de "Cheat Sheets" | Dec 2nd 2018 | Dominique Righetto | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyxqbdb/), [YouTube](https://www.youtube.com/watch?v=p8tQ9v7ddkg) |
-| Security Features in Azure | Nov 25th 2018 | Phoummala Schmitt | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyxpbhc/), [] |
+| Security Features in Azure | Nov 25th 2018 | Phoummala Schmitt | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyxpbhc/) |
 | OWASP ZSC Tool Project | Nov 11th 2018 | Johanna Curiel | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyxpbpb/), [YouTube](https://www.youtube.com/watch?v=4U7V5l37nuo) |
 | Tanya discovers Dependency Check is working! | Nov 18th 2018 | [Tanya Janca](team.md#tanya-janca) | [YouTube](https://www.youtube.com/watch?v=q900qcI5lx4) |
 | Dependency Check Part 2 | Nov 18th 2018 | [Tanya Janca](team.md#tanya-janca) and [Nancy Gariché](team.md#nancy-gariché) | [YouTube](https://www.youtube.com/watch?v=CcmaL6SVLOQ) |
-| OWASP Juice Shop! | Nov 18th 2018 | Björn Kimminich | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyxpbxb/) |
+| OWASP Juice Shop! | Nov 18th 2018 | Björn Kimminich | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/gxqllqyxpbxb/), [YouTube](https://www.youtube.com/watch?v=KEYWRtGNDEc) |
 | Patty the Pipeline Publishes for the First Time! | Nov 18th 2018 | [Tanya Janca](team.md#tanya-janca) and [Nancy Gariché](team.md#nancy-gariché) | [YouTube](https://www.youtube.com/watch?v=uOm7GaTVlso) |
 | Key Vault | Oct 29th 2018 | Shophine from SheSecures! | [YouTube](https://www.youtube.com/watch?v=vs70ivcHoXw) |
 | Patty the Pipeline and OWASP ZAP | May 19th 2018 | [Tanya Janca](team.md#tanya-janca) and [Nancy Gariché](team.md#nancy-gariché) | [YouTube](https://www.youtube.com/watch?v=atX45XcxnIc) |
