@@ -11,7 +11,7 @@
 | What                               | When              | Guest      | Description    |
 | Compliance as Code - The Why, What and How | March 8th 2020 | Mario Platt | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269034220/), [YouTube](https://www.youtube.com/watch?v=tmlfCc6Ml2k) |
 | GitHub Actions: Beyond CI/CD | Feb 23rd 2020 | Pierre-Nicolas Durette | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/268512973/), [YouTube](https://www.youtube.com/watch?v=rn7Z44W4Sic) |
-| Google Cloud Platform Security | Jan 26th 2020 | Dominique West | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/267911301/), [YouTube](https://www.youtube.com/watch?v=exzz7ar71I4)) |
+| Google Cloud Platform Security | Jan 26th 2020 | Dominique West | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/267911301/), [YouTube](https://www.youtube.com/watch?v=exzz7ar71I4) |
 | Securing Azure Static Webpages | Aug 22nd 2019 | Burke Holland and many more | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/264139805/), [YouTube](https://www.youtube.com/watch?v=-ZCaZkfl0tA) |
 | Azure Cloud Native Security Workshop | June 17th 2019 | Orin Thomas | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/262272931/), [YouTube](https://www.youtube.com/watch?v=lAEjBDoFZBY), [YouTube](https://www.youtube.com/watch?v=s3e4bk5ZAbQ) |
 | Tanya fixes the Content Security Policy header that has broken DevSlop.co | June 16th 2019 | [Tanya Janca](team.md#tanya-janca) and [Nancy Gariché](team.md#nancy-gariché) | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/262332338/), [YouTube](https://www.youtube.com/watch?v=NDBvraTd0dI) |
