@@ -4,7 +4,7 @@
 
 | What                               | When          | Where            | Who      | Description    |
 | ---------------------------------- | ------------- | ---------------- | -------- | -------------- |
-| WAF - Would you like a little more web application security? | April 24th 2020 | Uphill Conf Mount Gurten, Switzerland | [Franziska Bühler](team.md#franziska-bühler) | [Talk Abstract](https://uphillconf.com/franziska-buehler/) |
+| WAF - Would you like a little more web application security? | Oct 30th 2020 | Uphill Conf Mount Gurten, Switzerland | [Franziska Bühler](team.md#franziska-bühler) | [Talk Abstract](https://uphillconf.com/franziska-buehler/) |
 | | | | | |
 
 
