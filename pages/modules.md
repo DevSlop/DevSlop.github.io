@@ -11,10 +11,10 @@ OWASP DevSlop has a [blog on dev.to](https://dev.to/DevSlop/)!
 
 This module is lead by [Nancy Gariché](team.md#nancy-gariché).
 
-We stream from time to time on [Mixer](https://aka.ms/DevSlop-Mixer) and [Twitch](https://aka.ms/DevSlopTwitch), and you can find out when by joining our [meetup](https://www.meetup.com/OWASP-DevSlop-Project).
-You can catch the shows you've missed on [YouTube](https://aka.ms/DevSlopShow).
+We stream at least once a month on [YouTube](https://www.youtube.com/c/OWASPDevSlop). You can find out when we stream by joining our [Meetup Group](https://www.meetup.com/OWASP-DevSlop-Project).
+You can catch the shows you've missed on [YouTube](https://www.youtube.com/c/OWASPDevSlop).
 
-You find the OWASP DevSlop Show schedule [here](pages/shows-schedule.md).
+You can find the OWASP DevSlop Show schedule [here](pages/shows-schedule.md).
 
 ### Pixi-CRS
 
@@ -36,7 +36,7 @@ DevSlop's Pixi, the first application for this OWASP project, is currently publi
 Code to be found [here](https://github.com/DevSlop/Pixi).
 
 
-### Patty (no more maintained)
+### Patty (no longer maintained)
 
 This module was lead by [Tanya Janca](team.md#tanya-janca).
 
