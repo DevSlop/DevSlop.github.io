@@ -7,8 +7,8 @@ We have many different parts to our project, called [Modules](pages/modules.md),
 
 ### Watch the DevSlop Show
 
-We stream from time to time on [Mixer](https://aka.ms/DevSlop-Mixer) and [Twitch](https://aka.ms/DevSlopTwitch), and you can find out when by joining our [meetup](https://www.meetup.com/OWASP-DevSlop-Project).  
-You can catch the shows you've missed on [YouTube](https://aka.ms/DevSlopShow).
+We stream at least once a month on [YouTube](https://www.youtube.com/c/OWASPDevSlop). You can find out when by joining our [meetup](https://www.meetup.com/OWASP-DevSlop-Project).  
+You can catch the replays of our shows on our [YouTube channel](https://www.youtube.com/c/OWASPDevSlop).
 
 You can find the OWASP DevSlop Show schedule [here](pages/shows-schedule.md).
 
