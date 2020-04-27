@@ -2,13 +2,21 @@
 
 ### Current Events
 
+To see the most current events, please go to our [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/).
+
 | What                               | When              | Guest      | Description    |
-| Security & Policy Configurations for Infrastructure as Code | March 15th 2020 | Rosemary Wang | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/268639871/) |
-| Logging & Monitoring on AWS 101 | June 14th 2020 | Veliswa Boya | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269306895/) |
+| API hacking for the Actually Pretty Inexperienced Hacker | June 14th 2020 | Katie Paxton-Fear | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270041495/), [YouTube](https://www.youtube.com/watch?v=qqmyAxfGV9c) |
+| Logging & Monitoring on AWS 101 | June 14th 2020 | Veliswa Boya | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269306895/), [YouTube](https://www.youtube.com/watch?v=ylZXOfBT-UU) |
+| Automating Cloud Security with Open Policy Agent | July 19th 2020 | Josh Stella | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270010615/), [YouTube](https://www.youtube.com/watch?v=wLDRtpmm0u8) |
 
 ### Past Events
 
+You find the past events on our [YouTube channel](https://www.youtube.com/c/OWASP_DevSlop).
+
 | What                               | When              | Guest      | Description    |
+| An AWSome Guide to DevOps | April 25th 2020 | Zainub Amod | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269443721/), [YouTube](https://www.youtube.com/watch?v=k9WpRUVGRv0) |
+| Secure your serverless! Offense and Defensive Measures | April 5th 2020 | Teri Radichel | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269553348/) , [YouTube](https://www.youtube.com/watch?v=d8NDmJR0jOU) |
+| Security & Policy Configurations for Infrastructure as Code | March 15th 2020 | Rosemary Wang | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/268639871/), [YouTube](https://www.youtube.com/watch?v=KOTXCIN0yE0) |
 | Compliance as Code - The Why, What and How | March 8th 2020 | Mario Platt | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269034220/), [YouTube](https://www.youtube.com/watch?v=tmlfCc6Ml2k) |
 | GitHub Actions: Beyond CI/CD | Feb 23rd 2020 | Pierre-Nicolas Durette | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/268512973/), [YouTube](https://www.youtube.com/watch?v=rn7Z44W4Sic) |
 | Google Cloud Platform Security | Jan 26th 2020 | Dominique West | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/267911301/), [YouTube](https://www.youtube.com/watch?v=exzz7ar71I4) |
