@@ -5,8 +5,8 @@
 To see the most current events, please go to our [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/).
 
 | What                               | When              | Guest      | Description    |
-| API hacking for the Actually Pretty Inexperienced Hacker | June 14th 2020 | Katie Paxton-Fear | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270041495/), [YouTube](https://www.youtube.com/watch?v=qqmyAxfGV9c) |
 | Logging & Monitoring on AWS 101 | June 14th 2020 | Veliswa Boya | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269306895/), [YouTube](https://www.youtube.com/watch?v=ylZXOfBT-UU) |
+| API hacking for the Actually Pretty Inexperienced Hacker | May 3rd 2020 | Katie Paxton-Fear | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270041495/), [YouTube](https://www.youtube.com/watch?v=qqmyAxfGV9c) |
 | Automating Cloud Security with Open Policy Agent | July 19th 2020 | Josh Stella | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270010615/), [YouTube](https://www.youtube.com/watch?v=wLDRtpmm0u8) |
 
 ### Past Events
