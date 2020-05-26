@@ -5,8 +5,11 @@
 To see the most current events, please go to our [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/).
 
 | What                               | When              | Guest      | Description    |
+| Securing your code with CodeQL | May 31st 2020 | Sasha Rosenbaum | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270645594/), [YouTube](https://youtu.be/G_yDbouY0tM) |
 | Logging & Monitoring on AWS 101 | June 14th 2020 | Veliswa Boya | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269306895/), [YouTube](https://www.youtube.com/watch?v=ylZXOfBT-UU) |
+| Practical Application of the API Security Top 10: A Tester’s Perspective | June 28th 2020 | Rajni Hatti | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270469870/), [YouTube](https://youtu.be/rPsmmNxo9W0) |
 | Automating Cloud Security with Open Policy Agent | July 19th 2020 | Josh Stella | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270010615/), [YouTube](https://www.youtube.com/watch?v=wLDRtpmm0u8) |
+| Ceci n'est pas une Pipeline: is it CI/CD or WHAT? | August 16th 2020 | Renata Rocha | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270719163//), [YouTube](https://www.youtube.com/) |
 
 ### Past Events
 
