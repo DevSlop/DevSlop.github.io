@@ -5,17 +5,24 @@
 To see the most current events, please go to our [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/).
 
 | What                               | When              | Guest      | Description    |
-| Securing your code with CodeQL | May 31st 2020 | Sasha Rosenbaum | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270645594/), [YouTube](https://youtu.be/G_yDbouY0tM) |
-| Logging & Monitoring on AWS 101 | June 14th 2020 | Veliswa Boya | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269306895/), [YouTube](https://www.youtube.com/watch?v=ylZXOfBT-UU) |
-| Practical Application of the API Security Top 10: A Tester’s Perspective | June 28th 2020 | Rajni Hatti | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270469870/), [YouTube](https://youtu.be/rPsmmNxo9W0) |
-| Automating Cloud Security with Open Policy Agent | July 19th 2020 | Josh Stella | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270010615/), [YouTube](https://www.youtube.com/watch?v=wLDRtpmm0u8) |
-| Ceci n'est pas une Pipeline: is it CI/CD or WHAT? | August 16th 2020 | Renata Rocha | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270719163//), [YouTube](https://www.youtube.com/) |
+| Gitops and Best Practices for Managing Infrastructure | September 20th 2020 | Javeria Khan | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/273031113/), [YouTube](https://www.youtube.com/c/OWASPDevSlop/videos) |
+| Healthy Posture and You Are in the Clouds | September 27th 2020 | Marina Segal | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/273031050/), [YouTube](https://www.youtube.com/c/OWASPDevSlop/videos) |
 
 ### Past Events
 
 You find the past events on our [YouTube channel](https://www.youtube.com/c/OWASP_DevSlop).
 
 | What                               | When              | Guest      | Description    |
+| Orchestration with Nomad from A(rtifacts) to Z(ones) | September 13th 2020 | Jacquie Grindrod | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/272835646/), [YouTube](https://youtu.be/yzlL5Eh_WKI) |
+| Knock Your SOCs Off: Modernizing Security Operations | August 30th 2020 | Kat Sweet | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/272521014/), [YouTube](https://www.youtube.com/watch?v=0-5mHRwvZ7w) |
+| Ceci n'est pas une Pipeline: is it CI/CD or WHAT? | August 16th 2020 | Renata Rocha | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270719163/), [YouTube](https://www.youtube.com/watch?v=VeKqDWALWBc) |
+| HANDS-ON WORKSHOP: SECURITY & COMPLIANCE FOR YOUR INFRASTRUCTURE-AS-CODE | July 26th 2020 | Barak Schoster | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/271775516/), [YouTube](https://www.youtube.com/watch?v=n5EdM-e-9DU) |
+| Automating Cloud Security with Open Policy Agent | July 19th 2020 | Josh Stella | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270010615/), [YouTube](https://youtu.be/mRT41T7eQQg) |
+| Secure-er Code Reviews with Seth & Ken (w/ Rana Khalil as special guest host) | July 12th 2020 | Seth Law and Ken Johnson | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/271568975/), [YouTube](https://www.youtube.com/watch?v=89rSpNBtVWE) |
+| Practical Application of the API Security Top 10: A Tester’s Perspective | June 28th 2020 | Rajni Hatti | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270469870/), [YouTube](https://youtu.be/rPsmmNxo9W0) |
+| Logging & Monitoring on AWS 101 | June 14th 2020 | Veliswa Boya | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269306895/), [YouTube](https://www.youtube.com/watch?v=ylZXOfBT-UU) |
+| Securing your code with CodeQL | May 31st 2020 | Sasha Rosenbaum | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270645594/), [YouTube](https://youtu.be/G_yDbouY0tM) |
+
 | API hacking for the Actually Pretty Inexperienced Hacker | May 3rd 2020 | Katie Paxton-Fear | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/270041495/), [YouTube](https://www.youtube.com/watch?v=qqmyAxfGV9c) |
 | An AWSome Guide to DevOps | April 25th 2020 | Zainub Amod | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269443721/), [YouTube](https://www.youtube.com/watch?v=k9WpRUVGRv0) |
 | Secure your serverless! Offense and Defensive Measures | April 5th 2020 | Teri Radichel | [Meetup](https://www.meetup.com/de-DE/OWASP-DevSlop-Project/events/269553348/) , [YouTube](https://www.youtube.com/watch?v=d8NDmJR0jOU) |
